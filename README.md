@@ -31,6 +31,11 @@ In this module you will learn to:
 
 
 ### Module 3: Finding stories in data
+In this module you will learn to: 
+
+* Identify potential insights in data sets
+* Use free tools to conduct basic exploratory analysis
+
 
 ### Module 4: Machine learning in data journalism
 
