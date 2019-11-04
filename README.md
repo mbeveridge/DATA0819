@@ -38,6 +38,12 @@ In this module you will learn to:
 
 
 ### Module 4: Machine learning in data journalism
+In this module you will learn to: 
+
+* Identify what machine learning is and isn’t
+* See applications of machine learning in newsrooms
+* Use these tools for investigative journalism
+
 
 ### Module 5: Visualizing data
 
