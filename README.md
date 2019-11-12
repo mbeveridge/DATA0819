@@ -74,6 +74,19 @@ In this module you will learn to:
 
 ### Module 5: Visualizing data
 
+In this module you will learn how to:
+
+* Create visualizations that don’t just consist of designing beautiful maps and charts, but that are understandable
+* Understand essential visualization concepts, such as visual encodings
+* Choose the right chart or map depending on the nature of the data and the messages it’s meant to convey
+
+**Discussion Q1** :
+*Share any visualization you like (or dislike) in the forum. Explain why you chose it, using the language and concepts you’ve learned in this module. After that, reply to the choices of at least TWO other students. Be constructive in your comments!*
+
+**Discussion Q2** :
+*Design at least one visualization with Flourish. You can use any dataset you want. Publish your visualization, and share the link in the forums. After that, gently send feedback to at least TWO other students*
+
+
 ### Module 6: Data-driven storytelling
 
 
