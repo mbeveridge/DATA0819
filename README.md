@@ -36,7 +36,7 @@ In this module you will learn to:
 * Develop good practices in data processing
 
 **Discussion Q1** :
-*Clean up a data set of your choice based on what you’ve learned this week. It could be a data set about a topic you like, or a data set mentioned in the video lectures. Send a short post to the discussion forums explaining very briefly what you did and what problems you found. Once you’ve sent your own message to the forums, read messages from other students. Reply to at least TWO of them offering constructive comments, feedback, or even suggestions*
+*Clean up a dataset of your choice based on what you’ve learned this week. It could be a dataset about a topic you like, or a dataset mentioned in the video lectures. Send a short post to the discussion forums explaining very briefly what you did and what problems you found. Once you’ve sent your own message to the forums, read messages from other students. Reply to at least TWO of them offering constructive comments, feedback, or even suggestions*
 
 **Discussion Q2** :
 *What are the differences between tables that were made for humans and tables that were made for computers? What are the situations where one might be better than the other? Explain in your words what makes a table "clean" and evaluate a colleague's response*
@@ -54,7 +54,7 @@ In this module you will learn to:
 **Discussion Q2** :
 *Data Studio comes with a selection of native chart types. Identify a chart type that is not available in Data Studio. Make a post in the forum naming the chart type, link to at least one example visualization that uses that chart type, and explain specific use-cases where this chart type will be useful*
 
-**Discussion Q3** :
+**Discussion Q3** [Optional] :
 *Identify an infographic or visualization from the MakeoverMonday Series ([https://www.makeovermonday.co.uk/data/](https://www.makeovermonday.co.uk/data/)). The underlying data for each of the viz is available at the site. Try to replicate the one visualization or at least a part of it in Data Studio while making your own improvements. Share your finished Data Studio dashboard link and comment on what improvements you made and why*
 
 
@@ -74,20 +74,33 @@ In this module you will learn to:
 
 ### Module 5: Visualizing data
 
-In this module you will learn how to:
+In this module you will learn to:
 
 * Create visualizations that don’t just consist of designing beautiful maps and charts, but that are understandable
 * Understand essential visualization concepts, such as visual encodings
 * Choose the right chart or map depending on the nature of the data and the messages it’s meant to convey
 
 **Discussion Q1** :
-*Share any visualization you like (or dislike) in the forum. Explain why you chose it, using the language and concepts you’ve learned in this module. After that, reply to the choices of at least TWO other students. Be constructive in your comments!*
+*Share any visualization you like (or dislike) in the forum. Explain why you chose it, using the language and concepts you’ve learned in this module. After that, reply to the choices of at least TWO other students. Be constructive!*
 
 **Discussion Q2** :
 *Design at least one visualization with Flourish. You can use any dataset you want. Publish your visualization, and share the link in the forums. After that, gently send feedback to at least TWO other students*
 
 
 ### Module 6: Data-driven storytelling
+
+In this module you will learn to: 
+
+* Determine how storytelling fits into the broader data landscape
+* Identify what makes a good data story, and what makes it relatable and memorable
+* Identify the different shapes that data storytelling can take
+* Embrace experimentation, with examples from The Pudding
+
+**Discussion Q1** :
+*What has been the most memorable data story that you’ve ever seen? Why do you think it stuck with you? Share a link if possible. After that, comment on the choices of at least TWO other students. Be constructive!*
+
+**Discussion Q2** :
+*What is a question you have that you think would make for a good data story and why? Based on it, try to design your own data story — or at least part of it — using any dataset you wish. Publish it and share it in the forums. After that, send constructive feedback to at least TWO other students*
 
 
 ---
