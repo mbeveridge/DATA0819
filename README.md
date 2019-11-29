@@ -1,6 +1,8 @@
 # Knight Center MOOC : "[Data Journalism and Visualization with Free Tools](https://journalismcourses.org/DATA0819.html)"
 ###### 14/10/19 - 24/11/19
 
+<*I don't want to misuse/(share) others' IP, so my notes & links (eg. YouTube lectures) are on Dropbox Paper. And other assets (slides, datasets, etc) are in the repo but outside of Git. This may change in future. (Posts to MOOC forums aren't public and get deleted)*>
+
 * **Alberto Cairo**, University of Miami
 * **Simon Rogers**, Data Editor, Google News Lab
 * Marco Túlio Pires, Lead for Brazil, Google News Lab
