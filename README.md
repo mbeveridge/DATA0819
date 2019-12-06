@@ -107,4 +107,4 @@ In this module you will learn to:
 
 ---
 
-![certificate](xxxx.png "certificate")
+![certificate](DATA0819_Certificate.png "certificate")
